@@ -130,4 +130,122 @@
 
     <topicref href="AntiMalware_C2_MalwareSandbox_MM.dita" type="concept"/>
   </topicref>
+
+  <reltable>
+    <relheader>
+      <relcolspec type="task"/>
+
+      <relcolspec type="concept"/>
+
+      <relcolspec type="reference"/>
+    </relheader>
+
+    <relrow>
+      <relcell>
+        <topicref href="Phishing_T_ReportingPhishing_JB.dita"
+                  linking="targetonly"/>
+      </relcell>
+
+      <relcell>
+        <topicref href="Email_C1_WhatIsAGmailAlertMessage_SD.dita"
+                  linking="sourceonly"/>
+      </relcell>
+
+      <relcell/>
+    </relrow>
+
+    <relrow>
+      <relcell>
+        <topicref href="Email_T2_HowToVerifyEmailAuthentication_SD.dita"
+                  linking="targetonly"/>
+      </relcell>
+
+      <relcell>
+        <topicref href="Phishing_C_PhishingAwareness_JB.dita"
+                  linking="sourceonly"/>
+      </relcell>
+
+      <relcell/>
+    </relrow>
+
+    <relrow>
+      <relcell>
+        <topicref href="2FA_T_AddingNewDevice_JB.dita" linking="targetonly"/>
+      </relcell>
+
+      <relcell>
+        <topicref href="Password_C_AccountSecurity_JB.dita"
+                  linking="sourceonly"/>
+      </relcell>
+
+      <relcell/>
+    </relrow>
+
+    <relrow>
+      <relcell>
+        <topicref href="VPN_T2_HowToConnectToTheNCStateVPN_SD.dita"
+                  linking="targetonly"/>
+      </relcell>
+
+      <relcell>
+        <topicref href="Network_C_On-campusWirelessNetworks_JB.dita"
+                  linking="sourceonly"/>
+      </relcell>
+
+      <relcell/>
+    </relrow>
+
+    <relrow>
+      <relcell>
+        <topicref href="FileSharing_T1_HowToShareFilesInGoogleDrive_SD.dita"
+                  linking="targetonly"/>
+      </relcell>
+
+      <relcell>
+        <topicref href="DataProtection_C1_WhatIsDataManagement_MM.dita"
+                  linking="sourceonly"/>
+      </relcell>
+
+      <relcell/>
+    </relrow>
+
+    <relrow>
+      <relcell>
+        <topicref href="DataProtection_T3_HowToWorkSecurelyInTheCloud_MM.dita"/>
+      </relcell>
+
+      <relcell>
+        <topicref href="FileSharing_C1_WhatAreSafeSharingPracticesInGoogleDrive_SD.dita"/>
+      </relcell>
+
+      <relcell/>
+    </relrow>
+
+    <relrow>
+      <relcell>
+        <topicref href="DataProtection_T2_HowToSecurelyCollaboarateWithExternalResources_MM.dita"
+                  linking="sourceonly"/>
+      </relcell>
+
+      <relcell/>
+
+      <relcell>
+        <topicref href="FileSharing_R1_LookUpFolderAccessInGoogleDrive_SD.dita"
+                  linking="targetonly"/>
+      </relcell>
+    </relrow>
+
+    <relrow>
+      <relcell>
+        <topicref href="Phishing_T_ReportingPhishing_JB.dita"
+                  linking="sourceonly"/>
+      </relcell>
+
+      <relcell/>
+
+      <relcell>
+        <topicref href="Email_R1_LookUpPhishing_SD.dita" linking="targetonly"/>
+      </relcell>
+    </relrow>
+  </reltable>
 </map>
