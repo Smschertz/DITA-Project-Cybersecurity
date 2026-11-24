@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN"
+"task.dtd">
+<task id="Email_T1_HowToAvoidSuspiciousEmails_SD">
+  <title>How to Avoid Suspicious Emails</title>
+
+  <shortdesc>Learn how to protect yourself from suspicious emails by verifying
+  senders, inspecting links, checking login page URLs, and reporting
+  suspicious messages.</shortdesc>
+
+  <taskbody>
+    <context>If you're unfamiliar with phishing, review <xref
+    href="Phishing_C_PhishingAwareness_JB.dita">Phishing Awareness</xref>
+    before following these steps. Suspicious emails might include an
+    unexpected email from an unverified sender, an email with a malicious
+    link, or an email requesting personal information. And one wrong click or
+    share puts our entire community’s data at risk. </context>
+
+    <steps>
+      <step>
+        <cmd>Verify the Sender</cmd>
+
+        <info>Many phishing emails impersonate university officials. Always
+        verify the email sender’s address, even if it seems familiar. If the
+        email appears to be from someone you know personally, contact them in
+        a different way.</info>
+      </step>
+
+      <step>
+        <cmd>Hover Over Links</cmd>
+
+        <info>Malicious links are often disguised to look legitimate. Always
+        hover over hyperlinked text — or carefully press and hold on a mobile
+        device — to see where it points. If the destination is unclear, it may
+        be a scam. When in doubt, don’t click.</info>
+      </step>
+
+      <step>
+        <cmd>Check Login Page URLs </cmd>
+
+        <info>Our community often encounters phishing scams that involve fake
+        login pages. As NC State’s login experience gradually transitions from
+        Shibboleth to Entra ID this fall, it’s extra important to pay
+        attention to URLs before logging in to university systems. You will
+        see both Shibboleth and Entra login pages over the next few months.<ul>
+            <li>Microsoft Entra ID: login.microsoftonline.com</li>
+
+            <li>Shibboleth: shib.ncsu.edu</li>
+          </ul></info>
+      </step>
+
+      <step>
+        <cmd>Report Phishing</cmd>
+
+        <info>If you suspect phishing, do not reply or forward the email.
+        <xref href="Phishing_T_ReportingPhishing_JB.dita">Report it
+        immediately</xref>. </info>
+      </step>
+    </steps>
+  </taskbody>
+</task>

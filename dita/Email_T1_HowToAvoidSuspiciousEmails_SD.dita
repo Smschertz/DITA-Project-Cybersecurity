@@ -8,13 +8,20 @@
   senders, inspecting links, checking login page URLs, and reporting
   suspicious messages.</shortdesc>
 
+  <prolog>
+    <author>Sara Davila</author>
+
+    <source
+    href="https://oit.ncsu.edu/2026/08/12/fall-semester-phishing-tips-2/">https://oit.ncsu.edu/2026/08/12/fall-semester-phishing-tips-2/</source>
+  </prolog>
+
   <taskbody>
     <context>If you're unfamiliar with phishing, review <xref
     href="Phishing_C_PhishingAwareness_JB.dita">Phishing Awareness</xref>
     before following these steps. Suspicious emails might include an
     unexpected email from an unverified sender, an email with a malicious
     link, or an email requesting personal information. And one wrong click or
-    share puts our entire community’s data at risk. </context>
+    share puts our entire community’s data at risk.</context>
 
     <steps>
       <step>
@@ -36,7 +43,7 @@
       </step>
 
       <step>
-        <cmd>Check Login Page URLs </cmd>
+        <cmd>Check Login Page URLs</cmd>
 
         <info>Our community often encounters phishing scams that involve fake
         login pages. As NC State’s login experience gradually transitions from
@@ -54,7 +61,7 @@
 
         <info>If you suspect phishing, do not reply or forward the email.
         <xref href="Phishing_T_ReportingPhishing_JB.dita">Report it
-        immediately</xref>. </info>
+        immediately</xref>.</info>
       </step>
     </steps>
   </taskbody>
