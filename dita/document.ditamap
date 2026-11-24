@@ -37,7 +37,7 @@
 
   <topicref href="Network_C_On-campusWirelessNetworks_JB.dita"
             navtitle="Network Connectivity" type="concept">
-    <topicref href="Network_T_How toConnecttoEDURoam_JB.dita" type="task"/>
+    <topicref href="Network_T_HowtoConnecttoEDURoam_JB.dita" type="task"/>
   </topicref>
 
   <topicref href="Email_T1_HowToAvoidSuspiciousEmails_SD.dita"
