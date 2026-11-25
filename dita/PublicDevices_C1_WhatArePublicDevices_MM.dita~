@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"concept.dtd">
+<concept id="???">
+  <title>What are Public Devices?</title>
+
+  <shortdesc>Defining public devices.</shortdesc>
+
+  <conbody>
+    <p>Public devices refer to computers or other smart devices that are
+    available for use in spaces used by a number of people.</p>
+  </conbody>
+</concept>
