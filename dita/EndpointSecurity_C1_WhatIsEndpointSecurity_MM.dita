@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"concept.dtd">
+<concept id="EndpointSecurity_C1_WhatIsEndpointSecurity_MM">
+  <title>What Is Endpoint Security?</title>
+
+  <conbody>
+    <p>Endpoint security is the process of protecting devices like
+    workstations, servers, and other devices from malicious threats and
+    cyberattacks. Endpoint security software enables schools to protect
+    devices that students, faculty and staff use or servers that are either on
+    a network or in the cloud from cyber threats.</p>
+  </conbody>
+</concept>

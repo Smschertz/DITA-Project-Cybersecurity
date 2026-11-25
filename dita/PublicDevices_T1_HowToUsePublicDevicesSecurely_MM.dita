@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN"
+"generalTask.dtd">
+<task id="PublicDevices_T1_HowToUsePublicDevicesSecurely_MM">
+  <title>How To Securely Use Public Devices</title>
+
+  <taskbody>
+    <steps>
+      <step>
+        <cmd>Avoid logging into accounts with sensitive data, including online
+        banking accounts, healthcare portals, or shopping accounts with stored
+        payment information.</cmd>
+      </step>
+
+      <step>
+        <cmd>Use private/incognito browsing to prevent the browser from saving
+        your history and reduces the likelihood of storing session or
+        authentication data locally.</cmd>
+      </step>
+
+      <step>
+        <cmd>Never save your password. Decline all prompts to save passwords,
+        enable autofill, or remain logged in—even if you plan on using the
+        device multiple times.</cmd>
+      </step>
+
+      <step>
+        <cmd>Always log out of systems and applications. When you’re finished,
+        make sure you completely log out of anything you signed into before
+        exiting the browser (including Single Sign-On sessions). You should
+        also log out if you need to step away from the device, even for a
+        short time, to avoid unwanted account access or accidental data
+        exposure.</cmd>
+      </step>
+
+      <step>
+        <cmd>Clear browsing data and delete downloaded files. Even incognito
+        browsers save cookies, cache, and files temporarily. Be sure to clear
+        the data from the browser and delete any files you’ve downloaded
+        before leaving the device.</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>

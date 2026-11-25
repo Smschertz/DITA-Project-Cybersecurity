@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA General Task//EN"
+"generalTask.dtd">
+<task id="EndpointSecurity_T1_HowToStrengthenEndpointSecurity_MM">
+  <title>How to strengthen endpoint security without adding new tools</title>
+
+  <taskbody>
+    <title>Identity-first security</title>
+
+    <steps>
+      <step>
+        <cmd>Set access baselines. Map every role to the minimal privileges
+        required. A consistent least-privilege model helps reduce lateral
+        movement risk without slowing productivity.</cmd>
+      </step>
+
+      <step>
+        <cmd>Enable strong authentication. Move beyond passwords by enforcing
+        phishing-resistant MFA, passkeys, or biometric verification for
+        high-risk access and privileged accounts to immediately raise your
+        security floor.</cmd>
+      </step>
+
+      <step>
+        <cmd>Audit inactive or shared accounts. Legacy credentials are easy
+        targets. Review them quarterly and automate deactivation where
+        possible.</cmd>
+      </step>
+    </steps>
+
+    <title>Secure your operating systems and firmwire</title>
+
+    <steps>
+      <step>
+        <cmd>Apply firmware and driver updates regularly. Automate where
+        possible to eliminate human error.</cmd>
+      </step>
+
+      <step>
+        <cmd>Enforce OS-level security baselines. Apply hardening templates
+        that disable unnecessary ports, services, and admin privileges.</cmd>
+      </step>
+
+      <step>
+        <cmd>Turn on built-in exploit protection and application control.
+        These features are often bundled with enterprise operating systems and
+        can help significantly reduce your attack surface without any new
+        spend.</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>
