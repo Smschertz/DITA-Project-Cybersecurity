@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN"
+"task.dtd">
+<task id="Email_T2_HowToVerifyEmailAuthentication_SD_">
+  <title>How to Verify Email Authentication</title>
+
+  <shortdesc>Learn how to check whether a Gmail message is authenticated and
+  recognize indicators of an unauthenticated sender.</shortdesc>
+
+  <prolog>
+    <author>Sara Davila</author>
+
+    <source
+    href="https://support.google.com/mail/answer/180707">https://support.google.com/mail/answer/180707</source>
+  </prolog>
+
+  <taskbody>
+    <context>When an email isn't authenticated, that means Gmail doesn't know
+    if the message is coming from the person who appears to be sending it. If
+    you see a question mark next to the sender's name, the message isn't
+    authenticated. If you see this, be careful about replying or downloading
+    any attachments. <note type="important"><p>Messages that aren't
+    authenticated aren't necessarily spam. Sometimes authentication doesn't
+    work for real organizations who send mail to big groups, like messages
+    sent to mailing lists. </p></note><note><p>If you're using an iPhone or
+    iPad, open Gmail on a computer to check the message's authentication
+    details.</p></note></context>
+
+    <steps>
+      <step>
+        <cmd>Open Gmail on your device.</cmd>
+      </step>
+
+      <step>
+        <cmd>Open the email you want to verify.</cmd>
+      </step>
+
+      <step>
+        <cmd>Below the sender's name, click the Down arrow.</cmd>
+
+        <info><image href="images/gmail-down-arrow.png.png">
+            <alt>Gmail message details showing the down arrow beneath the
+            sender's name.</alt>
+          </image></info>
+      </step>
+
+      <step>
+        <cmd>View the email's authentication details.</cmd>
+
+        <info>The message is authenticated if you see:<ul>
+            <li>"Mailed-by" header with the domain name, like google.com.
+            </li>
+
+            <li>"Signed-by" header with the sending domain. </li>
+          </ul>The message isn't authenticated if you see a question mark next
+        to the sender's name. If you see this, be careful about replying or
+        downloading any attachments. </info>
+      </step>
+    </steps>
+  </taskbody>
+</task>
