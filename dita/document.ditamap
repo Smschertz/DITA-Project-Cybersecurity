@@ -6,6 +6,27 @@
 
   <topicref href="index.dita"/>
 
+  <topicref href="EndpointSecurity_C1_WhatIsEndpointSecurity_MM.dita"
+            navtitle="Endpoint Security" type="concept">
+    <topicref href="EndpointSecurity_T1_HowToStrengthenEndpointSecurity_MM.dita"
+              type="task"/>
+
+    <topicref href="EndpointSecurity_C2_WhatAreWebFilters_MM.dita"
+              type="concept"/>
+  </topicref>
+
+  <topicref href="Network_C_On-campusWirelessNetworks_JB.dita"
+            navtitle="Network Connectivity" type="concept">
+    <topicref href="Network_T_HowtoConnecttoEDURoam_JB.dita" type="task"/>
+  </topicref>
+
+  <topicref href="VPN_C1_WhatAreVPNFeatures_SD.dita" navtitle="VPN"
+            type="concept">
+    <topicref href="VPN_T1_HowToInstallTheNCStateVPN_SD.dita" type="task"/>
+
+    <topicref href="VPN_T2_HowToConnectToTheNCStateVPN_SD.dita" type="task"/>
+  </topicref>
+
   <topicref href="Phishing_C_PhishingAwareness_JB.dita" navtitle="Phishing"
             type="concept">
     <topicref href="Phishing_T_ReportingPhishing_JB.dita" type="task"/>
@@ -13,6 +34,36 @@
     <topicref href="Phishing_T_ChangingYourPassword_JB.dita" type="task"/>
 
     <topicref href="Phishing_R_ContactHelpDesk_JB.dita" type="reference"/>
+  </topicref>
+
+  <topicref href="Email_T1_HowToAvoidSuspiciousEmails_SD.dita"
+            navtitle="Email" type="task">
+    <topicref href="Email_T2_HowToVerifyEmailAuthentication_SD.dita"
+              type="task"/>
+
+    <topicref href="Email_C1_WhatIsAGmailAlertMessage_SD.dita" type="concept"/>
+
+    <topicref href="Email_R1_LookUpPhishing_SD.dita" type="reference"/>
+
+    <topicref href="Email_R2_LookUpEmailAccess_SD.dita" type="reference"/>
+  </topicref>
+
+  <topicref href="FileSharing_C1_WhatAreSafeSharingPracticesInGoogleDrive_SD.dita"
+            navtitle="File Sharing" type="concept">
+    <topicref href="FileSharing_T1_HowToShareFilesInGoogleDrive_SD.dita"
+              type="task"/>
+
+    <topicref href="FileSharing_T2_HowToChangeFileAccessInGoogleDrive_SD.dita"
+              type="task"/>
+
+    <topicref href="FileSharing_T3_HowToRemoveOrRestrictAccessInGoogleDrive_SD.dita"
+              type="task"/>
+
+    <topicref href="FileSharing_C2_WhatAreSharingLimitationsInGoogleDrive_SD.dita"
+              type="concept"/>
+
+    <topicref href="FileSharing_R1_LookUpFolderAccessInGoogleDrive_SD.dita"
+              type="reference"/>
   </topicref>
 
   <topicref href="Password_C_PasswordGuidelines_JB.dita" navtitle="Password"
@@ -35,58 +86,17 @@
     <topicref href="2FA_R_DuoMobileApp_JB.dita" type="reference"/>
   </topicref>
 
-  <topicref href="Network_C_On-campusWirelessNetworks_JB.dita"
-            navtitle="Network Connectivity" type="concept">
-    <topicref href="Network_T_HowtoConnecttoEDURoam_JB.dita" type="task"/>
-  </topicref>
-
-  <topicref href="Email_T1_HowToAvoidSuspiciousEmails_SD.dita"
-            navtitle="Email" type="task">
-    <topicref href="Email_T2_HowToVerifyEmailAuthentication_SD.dita"
-              type="task"/>
-
-    <topicref href="Email_C1_WhatIsAGmailAlertMessage_SD.dita" type="concept"/>
-
-    <topicref href="Email_R1_LookUpPhishing_SD.dita" type="reference"/>
-
-    <topicref href="Email_R2_LookUpEmailAccess_SD.dita" type="reference"/>
-  </topicref>
-
-  <topicref href="VPN_C1_WhatAreVPNFeatures_SD.dita" navtitle="VPN"
-            type="concept">
-    <topicref href="VPN_T1_HowToInstallTheNCStateVPN_SD.dita" type="task"/>
-
-    <topicref href="VPN_T2_HowToConnectToTheNCStateVPN_SD.dita" type="task"/>
-  </topicref>
-
   <topicref href="SoftwareLicensing_C1_WhatIsAnITPurchase_SD.dita"
             navtitle="Software Licensing" type="concept">
     <topicref href="SoftwareLicensing_T1_HowToRequestSoftwareApproval_SD.dita"
               type="task"/>
 
-    <topicref href="SoftwareLicensing_T2_HowToRespondToClickwrapRequests_SD.dita"
+    <topicref audience="staff"
+              href="SoftwareLicensing_T2_HowToRespondToClickwrapRequests_SD.dita"
               type="task"/>
 
     <topicref href="SoftwareLicensing_C2_WhatIsAClickwrapAgreement_SD.dita"
               type="concept"/>
-  </topicref>
-
-  <topicref href="FileSharing_C1_WhatAreSafeSharingPracticesInGoogleDrive_SD.dita"
-            navtitle="File Sharing" type="concept">
-    <topicref href="FileSharing_T1_HowToShareFilesInGoogleDrive_SD.dita"
-              type="task"/>
-
-    <topicref href="FileSharing_T2_HowToChangeFileAccessInGoogleDrive_SD.dita"
-              type="task"/>
-
-    <topicref href="FileSharing_T3_HowToRemoveOrRestrictAccessInGoogleDrive_SD.dita"
-              type="task"/>
-
-    <topicref href="FileSharing_C2_WhatAreSharingLimitationsInGoogleDrive_SD.dita"
-              type="concept"/>
-
-    <topicref href="FileSharing_R1_LookUpFolderAccessInGoogleDrive_SD.dita"
-              type="reference"/>
   </topicref>
 
   <topicref href="PublicDevices_C1_WhatArePublicDevices_MM.dita"
@@ -96,15 +106,6 @@
 
     <topicref href="PublicDevices_T2_HowToSecureDataByDisablingCookiesAndBrowsingData_MM.dita"
               type="task"/>
-  </topicref>
-
-  <topicref href="EndpointSecurity_C1_WhatIsEndpointSecurity_MM.dita"
-            navtitle="Endpoint Security" type="concept">
-    <topicref href="EndpointSecurity_T1_HowToStrengthenEndpointSecurity_MM.dita"
-              type="task"/>
-
-    <topicref href="EndpointSecurity_C2_WhatAreWebFilters_MM.dita"
-              type="concept"/>
   </topicref>
 
   <topicref href="DataProtection_C1_WhatIsDataManagement_MM.dita"

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"concept.dtd">
+<concept id="ncstate_cybersecurity">
+  <title>NC State Cybersecurity</title>
+
+  <shortdesc>This resource provides cybersecurity documentation and
+  instructions to support members of the NC State community, including staff,
+  faculty and students.</shortdesc>
+
+  <conbody>
+    <p>This resource outlines common cybersecurity topics, including phishing,
+    password maintenance, two-factor authentication, network security, email,
+    software licensing, data protection and more. NC State users can navigate
+    this guide to find documentation and instructions for completing
+    cybersecurity tasks, explanations of important cybersecurity concepts and
+    reference information about university resources.</p>
+  </conbody>
+</concept>

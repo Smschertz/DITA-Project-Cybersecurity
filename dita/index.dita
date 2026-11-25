@@ -9,11 +9,61 @@
   faculty and students.</shortdesc>
 
   <conbody>
-    <p>This resource outlines common cybersecurity topics, including phishing,
-    password maintenance, two-factor authentication, network security, email,
-    software licensing, data protection and more. NC State users can navigate
-    this guide to find documentation and instructions for completing
-    cybersecurity tasks, explanations of important cybersecurity concepts and
-    reference information about university resources.</p>
+    <p>This resource outlines common cybersecurity topics and best practices
+    for staff, faculty and students. NC State users can navigate this guide to
+    find documentation and instructions for completing cybersecurity tasks,
+    explanations of important cybersecurity concepts and to reference
+    information about university resources.</p>
+
+    <p>Topics covered in this guide include:</p>
+
+    <p><ul>
+        <li><xref
+        href="EndpointSecurity_C1_WhatIsEndpointSecurity_MM.dita">Endpoint
+        Security</xref>: Protect your devices and systems from cybersecurity
+        threats.</li>
+
+        <li><xref href="Network_C_On-campusWirelessNetworks_JB.dita">Network
+        Connectivity</xref>: Connect securely to NC State wireless
+        networks.</li>
+
+        <li><xref href="VPN_C1_WhatAreVPNFeatures_SD.dita">VPN</xref>: Install
+        and connect to the NC State VPN.</li>
+
+        <li><xref href="Phishing_C_PhishingAwareness_JB.dita">Phishing</xref>:
+        Recognize and report phishing attempts.</li>
+
+        <li><xref
+        href="Email_T1_HowToAvoidSuspiciousEmails_SD.dita">Email</xref>:
+        Identify suspicious emails and verify email authenticity.</li>
+
+        <li><xref
+        href="FileSharing_C1_WhatAreSafeSharingPracticesInGoogleDrive_SD.dita">File
+        Sharing</xref>: Share files securely and manage access in Google
+        Drive.</li>
+
+        <li><xref
+        href="Password_C_PasswordGuidelines_JB.dita">Password</xref>: Create,
+        maintain and reset university passwords.</li>
+
+        <li><xref href="2FA_C_AccountSecurity_JB.dita">Two-Factor
+        Authentication</xref>: Manage authentication methods and devices.</li>
+
+        <li><xref
+        href="SoftwareLicensing_C1_WhatIsAnITPurchase_SD.dita">Software
+        Licensing</xref>: Navigate software approval processes and clickwrap
+        agreements.</li>
+
+        <li><xref href="PublicDevices_C1_WhatArePublicDevices_MM.dita">Public
+        Devices</xref>: Protect your personal information when using shared
+        devices.</li>
+
+        <li><xref href="DataProtection_C1_WhatIsDataManagement_MM.dita">Data
+        Protection</xref>: Manage and protect sensitive university data.</li>
+
+        <li><xref
+        href="AntiMalware_C1_WhatIsAntiMalware_MM.dita">AntiMalware</xref>:
+        Protect your devices from viruses and other malicious software.</li>
+      </ul></p>
   </conbody>
 </concept>
