@@ -24,7 +24,7 @@
       <param name="args.rellinks" value="none"/>
       <param name="nav-toc" value="collapsible"/>
       <param name="scrollspy-toc" value="list"/>
-      <param name="processing-mode" value="strict"/>
+      <param name="processing-mode" value="lax"/>
       <param name="icons.include" value="yes"/>
       <param name="args.breadcrumbs" value="yes"/>
       <param name="menubar-toc.include" value="no"/>
