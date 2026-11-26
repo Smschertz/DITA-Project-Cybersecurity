@@ -51,10 +51,10 @@
         before logging in to university systems. You will see both Shibboleth
         and Entra login pages over the next few months.<ul>
             <li>Microsoft Entra ID: <xref format="html"
-            href="login.microsoftonline.com"
+            href="https://login.microsoftonline.com"
             scope="external">login.microsoftonline.com</xref></li>
 
-            <li>Shibboleth: <xref format="html" href="shib.ncsu.edu"
+            <li>Shibboleth: <xref format="html" href="https://shib.ncsu.edu"
             scope="external">shib.ncsu.edu</xref></li>
           </ul></info>
       </step>

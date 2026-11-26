@@ -16,12 +16,12 @@
   </prolog>
 
   <taskbody>
-    <context>If you're unfamiliar with phishing, review <xref
-    href="Phishing_C_PhishingAwareness_JB.dita">Phishing Awareness</xref>
-    before following these steps. Suspicious emails might include an
-    unexpected email from an unverified sender, an email with a malicious
-    link, or an email requesting personal information. And one wrong click or
-    share puts our entire community’s data at risk.</context>
+    <context>If you're unfamiliar with phishing, review <xref format="dita"
+    href="Phishing_C_PhishingAwareness_JB.dita" scope="local">Phishing
+    Awareness</xref> before following these steps. Suspicious emails might
+    include an unexpected email from an unverified sender, an email with a
+    malicious link, or an email requesting personal information. And one wrong
+    click or share puts our entire community’s data at risk.</context>
 
     <steps>
       <step>
@@ -47,12 +47,15 @@
 
         <info>Our community often encounters phishing scams that involve fake
         login pages. As NC State’s login experience gradually transitions from
-        Shibboleth to Entra ID this fall, it’s extra important to pay
-        attention to URLs before logging in to university systems. You will
-        see both Shibboleth and Entra login pages over the next few months.<ul>
-            <li>Microsoft Entra ID: login.microsoftonline.com</li>
+        Shibboleth to Entra ID, it’s extra important to pay attention to URLs
+        before logging in to university systems. You will see both Shibboleth
+        and Entra login pages over the next few months.<ul>
+            <li>Microsoft Entra ID: <xref format="html"
+            href="login.microsoftonline.com"
+            scope="external">login.microsoftonline.com</xref></li>
 
-            <li>Shibboleth: shib.ncsu.edu</li>
+            <li>Shibboleth: <xref format="html" href="shib.ncsu.edu"
+            scope="external">shib.ncsu.edu</xref></li>
           </ul></info>
       </step>
 
@@ -60,8 +63,8 @@
         <cmd>Report Phishing</cmd>
 
         <info>If you suspect phishing, do not reply or forward the email.
-        <xref href="Phishing_T_ReportingPhishing_JB.dita">Report it
-        immediately</xref>.</info>
+        <xref format="dita" href="Phishing_T_ReportingPhishing_JB.dita"
+        scope="local">Report it immediately</xref>.</info>
       </step>
     </steps>
   </taskbody>
