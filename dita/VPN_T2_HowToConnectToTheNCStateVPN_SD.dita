@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN"
+"task.dtd">
+<task id="VPN_T2_HowToConnectToTheNCStateVPN_SD">
+  <title>How to Connect to the NC State VPN</title>
+
+  <shortdesc>Learn how to connect to NC State's virtual private network (VPN)
+  using the Cisco Secure Client and Duo authentication.</shortdesc>
+
+  <prolog>
+    <author>Sara Davila</author>
+
+    <source format="html"
+    href="https://ncsu.service-now.com/sp?id=kb_article_view&amp;sysparm_article=KB0016406"
+    scope="external">https://ncsu.service-now.com/sp?id=kb_article_view&amp;sysparm_article=KB0016406</source>
+  </prolog>
+
+  <taskbody>
+    <prereq>Before you connect to the NC State VPN, make sure that the Cisco
+    Secure Client has been installed on your device. If you haven't installed
+    the Cisco Secure Client, see <xref format="dita"
+    href="VPN_T1_HowToInstallTheNCStateVPN_SD.dita" scope="local">How to
+    Install the NC State VPN Client</xref>.</prereq>
+
+    <context>The NC State VPN allows students, faculty, and staff to securely
+    access university resources and sensitive information. When connecting to
+    the VPN, you will need to ensure that you select the correct VPN group for
+    your affiliation or needs, and complete the Duo two-factor
+    authentication.</context>
+
+    <steps>
+      <step>
+        <cmd>Open the Cisco Secure Client app.</cmd>
+      </step>
+
+      <step>
+        <cmd>Enter vpn.ncsu.edu and select Connect. </cmd>
+
+        <info><image href="images/vpn.png">
+            <alt>The Cisco Secure Client window showing vpn.ncsu.edu in the
+            server address field.</alt>
+          </image></info>
+      </step>
+
+      <step>
+        <cmd>Select the appropriate VPN group for your needs and
+        affiliation.</cmd>
+      </step>
+
+      <step>
+        <cmd>Enter your Unity ID in the Username field and your Unity password
+        in the Password field.</cmd>
+      </step>
+
+      <step>
+        <cmd>In the second password field, enter one of the following to
+        initiate Duo Two Factor Authentication:</cmd>
+
+        <info><ul>
+            <li>Enter "push" into the second password field to receive a Duo
+            Push. Be sure to check the Duo Mobile app for the push. </li>
+
+            <li>Enter a code generated from the Duo Mobile app. </li>
+          </ul></info>
+      </step>
+
+      <step>
+        <cmd>Select OK and wait for the Cisco Secure Client to connect to the
+        NC State network.</cmd>
+      </step>
+    </steps>
+
+    <result>The Cisco Secure Client will establish a connection to the NC
+    State secure VPN network after successful authentication.<note><p>Keep the
+    Cisco Secure Client open in order to maintain the VPN
+    connection.</p></note></result>
+  </taskbody>
+</task>

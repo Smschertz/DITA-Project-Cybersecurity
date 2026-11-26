@@ -28,7 +28,8 @@
 
     <steps>
       <step>
-        <cmd>Open Gmail on your device.</cmd>
+        <cmd>Open <xref format="html" href="https://mail.google.com/mail/"
+        scope="external">Gmail</xref> on your device.</cmd>
       </step>
 
       <step>
@@ -48,13 +49,21 @@
         <cmd>View the email's authentication details.</cmd>
 
         <info>The message is authenticated if you see:<ul>
-            <li>"Mailed-by" header with the domain name, like google.com.
-            </li>
+            <li>"Mailed-by" header with the domain name, like google.com.</li>
 
-            <li>"Signed-by" header with the sending domain. </li>
+            <li>"Signed-by" header with the sending domain.</li>
           </ul>The message isn't authenticated if you see a question mark next
         to the sender's name. If you see this, be careful about replying or
-        downloading any attachments. </info>
+        downloading any attachments.</info>
+      </step>
+
+      <step>
+        <cmd>If a message you received from a trusted source isn't
+        authenticated, contact the person or company who sent you the email.
+        When you contact them, provide a link to the <xref format="html"
+        href="https://support.google.com/mail/answer/180707?hl=en&amp;co=GENIE.Platform%3DDesktop#zippy=%2Ccheck-gmail-messages"
+        scope="external">Google help page</xref> so they can learn how to
+        authenticate their messages. </cmd>
       </step>
     </steps>
   </taskbody>

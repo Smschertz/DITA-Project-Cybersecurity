@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN"
+"reference.dtd">
+<reference id="Email_R1_LookUpEmailAccess_SD">
+  <title>NC State Gmail Access and Support</title>
+
+  <shortdesc>Find information about access to your NC State Gmail account,
+  including supported email applications and account availability.
+  </shortdesc>
+
+  <refbody>
+    <refsyn>NC State uses Gmail as its email provider for students, faculty,
+    and staff. The NC State Help Desk only supports logging into gmail.com and
+    official Gmail apps. </refsyn>
+
+    <section><title>Gmail Access Methods</title><p><ul>
+        <li>Web browsers: Users can access their NC State email through <xref
+        format="html" href="https://mail.google.com/mail"
+        scope="external">Gmail</xref> using their university-issued Google
+        account.</li>
+
+        <li>Android: Users can use the official Gmail app to <xref
+        format="html"
+        href="https://support.google.com/mail/answer/8494?co=GENIE.Platform%3DAndroid&amp;oco=1"
+        scope="external">access their NC State email on an Android
+        device</xref>.</li>
+
+        <li>iPhone or iPad: Users can use the official Gmail app to <xref
+        format="html"
+        href="https://support.google.com/mail/answer/8494?co=GENIE.Platform%3DiOS&amp;oco=1"
+        scope="external">access their NC State email on an Apple
+        device</xref>.</li>
+
+        <li>Third-party applications: Users may use alternative applications
+        to access their NC State Gmail account. However, the NC State Help
+        Desk does not support troubleshooting or configuration of alternative
+        applications.</li>
+      </ul></p></section>
+
+    <section audience="student"><title>Information for Incoming
+    Students</title><p>New incoming students will not have an NC State Google
+    account created until after they have confirmed their enrollment and have
+    paid the Advanced Enrollment Deposit. After both of those are completed,
+    they will need to wait 2-3 days for their email account to be created.
+    </p></section>
+  </refbody>
+</reference>

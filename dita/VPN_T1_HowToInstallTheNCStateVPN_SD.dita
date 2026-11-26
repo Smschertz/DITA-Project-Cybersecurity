@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN"
+"task.dtd">
+<task id="VPN_T1_HowToInstallTheNCStateVPN_SD">
+  <title>How to Install the NC State VPN Client</title>
+
+  <shortdesc>Learn how to download and install the Cisco Secure Client on a
+  Windows 10 or 11 computer to access NC State's virtual private network
+  (VPN).</shortdesc>
+
+  <prolog>
+    <author>Sara Davila</author>
+
+    <source format="html"
+    href="https://ncsu.service-now.com/sp?id=kb_article_view&amp;sysparm_article=KB0021610"
+    scope="external">https://ncsu.service-now.com/sp?id=kb_article_view&amp;sysparm_article=KB0021610</source>
+  </prolog>
+
+  <taskbody>
+    <context>NC State provides a virtual private network (VPN) connection
+    through the Cisco Secure Client software. A VPN connection is typically
+    required when accessing sensitive information or using on-campus resources
+    from an off-campus connection. <p>The following instructions explain how
+    to install the Cisco Secure Client on Windows 10 or 11. </p><note><p>If
+    you're using macOS, Linux, or a mobile device, please refer to NC State's
+    <xref format="html"
+    href="https://ncsu.service-now.com/sp?id=kb_article_view&amp;sysparm_article=KB0018300"
+    scope="external">installation instructions</xref> for your operating
+    system.</p></note></context>
+
+    <steps>
+      <step>
+        <cmd>Download the <xref format="html"
+        href="https://ncsu.service-now.com/sys_attachment.do?sys_id=9428e8a583f80f109a7074efeeaad35b"
+        scope="external">Cisco Secure Client</xref> installer.</cmd>
+      </step>
+
+      <step>
+        <cmd>Double click on the downloaded file to begin the installation.
+        </cmd>
+      </step>
+
+      <step>
+        <cmd>Accept the End User License Agreement. </cmd>
+      </step>
+
+      <step>
+        <cmd>Click on the Install button. </cmd>
+      </step>
+
+      <step>
+        <cmd>If you are prompted, allow the application to make changes on
+        your computer. </cmd>
+      </step>
+    </steps>
+
+    <result>The Cisco Secure Client will be added to your Start menu.
+    </result>
+
+    <postreq>After installing the Cisco Secure Client, you can follow the
+    instructions on <xref format="dita"
+    href="VPN_T2_HowToConnectToTheNCStateVPN_SD.dita" scope="local">How to
+    Connect to the NC State VPN</xref>.</postreq>
+  </taskbody>
+</task>

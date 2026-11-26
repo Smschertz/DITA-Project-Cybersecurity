@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN"
+"concept.dtd">
+<concept id="Email_C1_WhatIsAGmailAlertMessage_SD">
+  <title>What is a Gmail Alert Message?</title>
+
+  <shortdesc>Learn what Gmail warning banners mean, including why they may
+  appear on suspicious emails and how you should respond to potential phishing
+  threats.</shortdesc>
+
+  <prolog>
+    <author>Sara Davila</author>
+
+    <source
+    href="https://oit.ncsu.edu/2022/09/15/gmail-alert-be-careful-with-this-message/">https://oit.ncsu.edu/2022/09/15/gmail-alert-be-careful-with-this-message/</source>
+  </prolog>
+
+  <conbody>
+    <p>When Gmail identifies an email as potentially suspicious, it may
+    display a warning banner that states "Be careful with this message." These
+    banners help NC State users recognize messages that may contain malicious
+    content or phishing threats. Gmail uses automated security indicators that
+    identify messages which are potentially dangerous to users and alerts
+    recipients.</p>
+
+    <p>For additional guidance on recognizing suspicious messages, see <xref
+    format="dita" href="Email_T1_HowToAvoidSuspiciousEmails_SD.dita"
+    scope="local">How to Avoid Suspicious Emails</xref>.</p>
+
+    <fig>
+      <title>Example of a Gmail Warning Banner</title>
+
+      <image href="images/Gmail-Warning-Flag.png">
+        <alt>Yellow Gmail warning banner that displays a warning "Be careful
+        with this message" above a suspicious email.</alt>
+      </image>
+    </fig>
+
+    <section><title>Understanding Gmail Warning Banners</title><p>Gmail might
+    display warning banners on messages from unfamiliar senders, or when there
+    is a potential threat of phishing. A warning doesn't necessarily mean that
+    the email is malicious, but it indicates that the recipient should verify
+    the sender and assess the message carefully before interacting with
+    it.</p></section>
+
+    <section><title>How to Respond to a Warning Banner</title><p><ul>
+        <li>If you have verified that the sender and message are legitimate,
+        you can dismiss the warning or you can select the "Looks safe" option
+        on the warning banner.</li>
+
+        <li>If you are not familiar with the sender, make sure to examine the
+        message carefully before replying, opening any attachments, or
+        clicking on any links.</li>
+
+        <li>If you suspect the email is malicious or a phishing attempt, do
+        not interact with the content, any links, or any attachments. Report
+        the email as phishing by selecting the "Report phishing" button or
+        following NC State's <xref format="dita"
+        href="Phishing_T_ReportingPhishing_JB.dita" scope="local">phishing
+        reporting process</xref>.</li>
+      </ul><note type="important"><p>Keep in mind that the absence of a
+    warning banner in Gmail does not guarantee that an email is safe.
+    Suspicious and malicious emails may bypass automated detection. The
+    availability and appearance of the warning banner may also look different
+    across devices or other email applications.</p></note></p></section>
+  </conbody>
+</concept>

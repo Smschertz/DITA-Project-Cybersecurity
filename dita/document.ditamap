@@ -41,11 +41,11 @@
     <topicref href="Email_T2_HowToVerifyEmailAuthentication_SD.dita"
               type="task"/>
 
+    <topicref href="Email_T3_HowToAccessNCSUGmail_SD.dita" type="task"/>
+
     <topicref href="Email_C1_WhatIsAGmailAlertMessage_SD.dita" type="concept"/>
 
-    <topicref href="Email_R1_LookUpPhishing_SD.dita" type="reference"/>
-
-    <topicref href="Email_R2_LookUpEmailAccess_SD.dita" type="reference"/>
+    <topicref href="Email_R1_LookUpEmailAccess_SD.dita" type="reference"/>
   </topicref>
 
   <topicref href="FileSharing_C1_WhatAreSafeSharingPracticesInGoogleDrive_SD.dita"

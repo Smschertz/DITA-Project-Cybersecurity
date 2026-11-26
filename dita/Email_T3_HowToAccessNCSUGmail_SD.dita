@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN"
+"task.dtd">
+<task id="Email_T3_HowToAccessNCSUGmail_SD">
+  <title>How to Access Your NC State Gmail</title>
+
+  <shortdesc>Learn how to sign in to your NC State Gmail account using a web
+  browser.</shortdesc>
+
+  <prolog>
+    <author>Sara Davila</author>
+
+    <source
+    href="https://ncsu.service-now.com/sp?id=kb_article_view&amp;sysparm_article=KB0015528">https://ncsu.service-now.com/sp?id=kb_article_view&amp;sysparm_article=KB0015528</source>
+  </prolog>
+
+  <taskbody>
+    <context>NC State uses Gmail as its email provider. Sign in using your NC
+    State unity ID and university authentication credentials. The NC State
+    Help Desk only supports logging into gmail.com and official Gmail apps.
+    <p>The following steps outline the process to sign in to your NC State
+    Gmail account on a computer.<note type="note"><p>To access your NCSU Gmail
+    account on a mobile device, you should use the official Gmail app. Please
+    refer to Google's instructions for signing in to Gmail on an <xref
+    format="html"
+    href="https://support.google.com/mail/answer/8494?co=GENIE.Platform%3DAndroid&amp;oco=1"
+    scope="external">Android device</xref> or an <xref format="html"
+    href="https://support.google.com/mail/answer/8494?co=GENIE.Platform%3DiOS&amp;oco=1"
+    scope="external">iPhone or iPad</xref>. </p></note></p></context>
+
+    <steps>
+      <step>
+        <cmd>On your computer, go to <xref format="html"
+        href="https://mail.google.com/" scope="external">Gmail</xref>.</cmd>
+
+        <info><ul>
+            <li>If you are already signed into a personal or other Google
+            account and it takes you directly to your inbox, try signing into
+            multiple accounts.</li>
+
+            <li>If it takes you to the Gmail login page, but the login
+            information for your personal or other Google account is already
+            filled in, select Use another account.</li>
+
+            <li>If you see a page describing Gmail instead of the Gmail login
+            page, select Sign in in the upper-right corner of the page.</li>
+          </ul></info>
+      </step>
+
+      <step>
+        <cmd>In the Email or Phone field, enter [your Unity ID]@ncsu.edu.
+        Select Next.</cmd>
+      </step>
+
+      <step>
+        <cmd>On the Microsoft login page, enter your password. Select Sign
+        in.</cmd>
+      </step>
+
+      <step>
+        <cmd>Select Continue to complete <xref format="dita"
+        href="2FA_R_DuoMobileApp_JB.dita" scope="local">Duo
+        authentication</xref>.</cmd>
+      </step>
+    </steps>
+  </taskbody>
+</task>
