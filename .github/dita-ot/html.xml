@@ -5,12 +5,13 @@
     <input href="../../dita/document.ditamap"/>
     <profile>
       <ditaval href="html.ditaval"/>
+        <ditaval href="../../dita/general.ditaval"/>
     </profile>
   </context>
   <deliverable name="HTML5" id="html">
     <context idref="html"/>
     <output href="html"/>
-    <publication transtype="html5-bootstrap">
+    <publication id="website" transtype="html5-bootstrap">
       <param name="args.copycss" value="yes"/>
       <param name="args.css" value="theme.css"/>
       <param name="args.csspath" value="css"/>
@@ -34,4 +35,38 @@
       <param name="prism.use.theme" value="solarized"/>
     </publication>
   </deliverable>
+  
+<deliverable id="student" name="Student">
+  <context>
+    <input href="../../dita/document.ditamap"/>
+    <profile>
+      <ditaval href="html.ditaval"/>
+      <ditaval href="../../dita/student.ditaval"/>
+    </profile>
+  </context>
+  <output href="html/student"/>
+  <publication idref="website"/>
+</deliverable>
+<deliverable id="faculty" name="Faculty">
+  <context>
+    <input href="../../dita/document.ditamap"/>
+    <profile>
+      <ditaval href="html.ditaval"/>
+      <ditaval href="../../dita/faculty.ditaval"/>
+    </profile>
+  </context>
+  <output href="html/faculty"/>
+  <publication idref="website"/>
+</deliverable>
+<deliverable id="staff" name="Staff">
+  <context>
+    <input href="../../dita/document.ditamap"/>
+    <profile>
+      <ditaval href="html.ditaval"/>
+      <ditaval href="../../dita/staff.ditaval"/>
+    </profile>
+  </context>
+  <output href="html/staff"/>
+  <publication idref="website"/>
+</deliverable>
 </project>
